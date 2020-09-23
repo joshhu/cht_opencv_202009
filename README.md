@@ -16,11 +16,8 @@
 程式碼已測試，在Google Colab下均能正確執行(20200715版本)
 
 * ./Haar_Cascade/haar_cascade.ipynb
-* ./Haar_Cascade/.ipynb_checkpoints/haar_cascade-checkpoint.ipynb
 * ./Haar_Cascade/(opencv_cht)Haar_Cascade.ipynb
-* ./Face_Detection/face_detection.ipynb
 * ./Face_Detection/(opencv_cht)Face_Detection.ipynb
-* ./Face_Detection/.ipynb_checkpoints/face_detection-checkpoint.ipynb
 * ./Image_Processing/(opencv_cht)Image_Contour.ipynb
 * ./Image_Processing/(opencv_cht)Smoothing.ipynb
 * ./Image_Processing/(opencv_cht)Image_Gradient.ipynb
