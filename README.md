@@ -2,12 +2,12 @@
 
 ## 投影片
 
-* 00. OpenCV簡介.pptx
-* 01. OpenCV執行環境介紹.pptx
-* 02. OpenCV影像原理介紹.pptx
-* 03. OpenCV核心功能介紹.pptx
-* 04. OpenCV影像處理.pptx
-* 05. OpenCV影像處理(進階).pptx
+00. OpenCV簡介.pptx
+01. OpenCV執行環境介紹.pptx
+02. OpenCV影像原理介紹.pptx
+03. OpenCV核心功能介紹.pptx
+04. OpenCV影像處理.pptx
+05. OpenCV影像處理(進階).pptx
 
 
 
